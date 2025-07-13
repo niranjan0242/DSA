@@ -24,3 +24,4 @@ public class Isomorphicstrings {
         System.out.println(iso(s,t));
     }
 }
+
